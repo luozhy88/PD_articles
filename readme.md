@@ -6,7 +6,9 @@
 ## 主要内容
 SRP373424 PRJNA834801  
 meta SRP373424(ncbi) 725samples  
-特征 Group(Control[234],PD[491]),Age,Sex,饮食问卷等;USA,hsa  
+特征 Group(Control[234],PD[491]),Age,Sex,饮食问卷等;USA,hsa  \
+
+对结构细菌和功能作为特征。
 
 ### 机器学习
 随机森林、线性回归、梯度提升，构建预测模型
